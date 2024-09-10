@@ -2,7 +2,7 @@
 layout: post
 title: Week7
 categories: example
-tags: [plantuml]
+tags: DMU
 ---
 
 ## My First PlantUML
