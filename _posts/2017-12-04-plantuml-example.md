@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week7
-categories: Capstone
+categories: meeting
 tags: DMU
 ---
 
