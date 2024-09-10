@@ -2,7 +2,7 @@
 layout: post
 title: Week4
 subtitle:
-categories: example
+categories: meeting
 tags: [video]
 ---
 
