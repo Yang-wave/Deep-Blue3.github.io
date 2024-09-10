@@ -24,11 +24,9 @@ sidebar: []
 Hello everyone! We are three senior students from DMU. Here is a wabpage to record our capstone design.
 
 
-## section 1
+## Team Introduction
 
-### Team Introduction
-
-Chengyang Shen  
+### Chengyang Shen  
 Muyang Yin  
 Yang Xiao
 
