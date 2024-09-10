@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week6
-categories: example
+categories: Capstone
 tags: DMU
 ---
 
