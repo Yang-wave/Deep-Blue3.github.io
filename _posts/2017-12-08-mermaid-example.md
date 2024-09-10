@@ -2,7 +2,7 @@
 layout: post
 title: Week6
 categories: example
-tags: [mermaid]
+tags: DMU
 ---
 
 ### 1. Pie chart
