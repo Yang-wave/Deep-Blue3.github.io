@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: Week8
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
