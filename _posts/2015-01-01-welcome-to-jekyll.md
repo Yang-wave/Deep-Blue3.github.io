@@ -29,9 +29,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ### Team Introduction
 
-沈骋阳
-尹牧阳
-肖杨
+Chengyang Shen
+Muyang Yin
+Yang Xiao
 
 ## section 2
 
