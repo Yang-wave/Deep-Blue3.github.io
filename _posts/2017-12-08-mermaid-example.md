@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mermaid example
+title: Week6
 categories: example
 tags: [mermaid]
 ---
