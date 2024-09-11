@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week8
-categories: junk
+categories: Meeting
 author: "Bart Simpson"
 meta: "Springfield"
 ---
