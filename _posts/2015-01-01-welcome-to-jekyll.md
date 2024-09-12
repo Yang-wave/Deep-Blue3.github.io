@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome to Deep-Blue!
-subtitle: A awesome static site generator.
-author: Jeffrey
+subtitle: "Explore the deep blue, master the future"
+author: Yiming.Wang & Yunhe.Zhao & Huanting.Fang
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
