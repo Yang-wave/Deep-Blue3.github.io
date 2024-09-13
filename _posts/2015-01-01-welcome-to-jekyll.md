@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Deep-Blue!
 subtitle: "Explore the deep blue, master the future"
 author: Yiming.Wang & Yunhe.Zhao & Huanting.Fang
-categories: jekyll
+categories: Mechanical
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
